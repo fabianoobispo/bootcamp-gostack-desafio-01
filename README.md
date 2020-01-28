@@ -24,7 +24,7 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 ### concluído
 
 Realizado tarefa com sucesso;
-E adicionado novo middleware que verifica se o id se repeta ao cricar novo project.
+E adicionado novo middleware que verifica se o id se repete ao cricar novo project.
 
 ## :memo: Licença
 
