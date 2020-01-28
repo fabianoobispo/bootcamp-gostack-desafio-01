@@ -27,7 +27,7 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 
 ### Rotas
 
-Realizado tarefa com sucesso.;
+Realizado tarefa com sucesso;
 E adicionado novo middleware que verifica se o id se repeta ao cricar novo project.
 
 ## :memo: Licença
