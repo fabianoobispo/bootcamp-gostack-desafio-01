@@ -26,7 +26,7 @@ function noRepeatProject(req, res, next) {
   const project = projects.find(p => p.id == id);
 
   if (project) {
-    return res.status(400).json({ error: 'id repetida' });
+    return res.status(400).json({ error: 'Project id repeated' });
   }
   return next();
 };
